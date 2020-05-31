@@ -1,0 +1,7 @@
+C:\Users\amost\OneDrive\Рабочий стол\Unrelated\Homeworks\CW42\CW42\obj\Debug\CW42.csprojAssemblyReference.cache
+C:\Users\amost\OneDrive\Рабочий стол\Unrelated\Homeworks\CW42\CW42\obj\Debug\CW42.csproj.CoreCompileInputs.cache
+C:\Users\amost\OneDrive\Рабочий стол\Unrelated\Homeworks\CW42\CW42\bin\Debug\CW42.exe.config
+C:\Users\amost\OneDrive\Рабочий стол\Unrelated\Homeworks\CW42\CW42\bin\Debug\CW42.exe
+C:\Users\amost\OneDrive\Рабочий стол\Unrelated\Homeworks\CW42\CW42\bin\Debug\CW42.pdb
+C:\Users\amost\OneDrive\Рабочий стол\Unrelated\Homeworks\CW42\CW42\obj\Debug\CW42.exe
+C:\Users\amost\OneDrive\Рабочий стол\Unrelated\Homeworks\CW42\CW42\obj\Debug\CW42.pdb
